@@ -1,0 +1,2 @@
+# navcap
+appli cap vitesse
